@@ -18,12 +18,12 @@
     "ctaButtonTextResponsive": "Contato"
   },
   "hero": {
-    "miniTag": "A_Definir",
-    "title": "A_Definir <span class=\"text-primary font-bold\">A_Definir</span>",
-    "subtitle": "A_Definir",
-    "ctaButtonText": "A_Definir",
+    "miniTag": "ESCRITÓRIO DE ADVOCACIA EM SÃO PAULO",
+    "title": "Quem defende você, <span class=\"text-primary font-bold\">se não agir?</span>",
+    "subtitle": "Problemas jurídicos não se resolvem sozinhos. O tempo pode jogar contra você.",
+    "ctaButtonText": "Quero me proteger agora",
     "obsHero": {
-      "text": "A_Definir"
+      "text": "Atendimento presencial e online para todo Brasil."
     }
   },
   "features": {
