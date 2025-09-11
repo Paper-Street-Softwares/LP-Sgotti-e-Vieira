@@ -33,26 +33,6 @@ export default function Index() {
 
   return (
     <>
-      {/* <div className="fixed inset-x-0 bottom-5 flex justify-center z-50 pointer-events-none">
-        <div className="flex gap-4 bg-white dark:bg-gray-800 p-4 rounded-lg shadow-lg pointer-events-auto">
-          <Button
-            label="English"
-            size="small"
-            onClick={() => changeLanguage("en")}
-          />
-          <Button
-            label="Português"
-            size="small"
-            onClick={() => changeLanguage("pt")}
-          />
-          <Button
-            label="Español"
-            size="small"
-            onClick={() => changeLanguage("es")}
-          />
-        </div>
-      </div> */}
-
       <Navbar colorMode={colorMode} />
 
       <Hero
@@ -68,8 +48,8 @@ export default function Index() {
         defaultFeature={false}
         button={false}
         modalWithCards={false}
-        paragraphs={false}
-        sixCards={true}
+        paragraphs={true}
+        sixCards={false}
         paragraphsModal={false}
       />
 
