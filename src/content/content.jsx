@@ -52,7 +52,7 @@ const currentYear = new Date().getFullYear();
 export const infos = {
   name: "Sgotti e Vieira Advocacia",
   email: "contato", // Email desejado pelo cliente
-  emailSecundario: "A_Definir", // Email desejado pelo cliente
+  emailSecundario: "advocaciasgotti@gmail.com", // Email desejado pelo cliente
   domain: "sgottievieira.com.br", // Sem "www"
   phone: {
     ddd: "17",

@@ -1,6 +1,6 @@
 {
   "infos": {
-    "adress": "Rua Voluntários de São Paulo, <br/> nº 3066, sala 107,  <br/> São José do Rio Preto - SP, <br/> CEP:  15025-150",
+    "adress": "Rua Voluntários de São Paulo,  <br/> nº 3066, sala 107, <br/> São José do Rio Preto - SP,  <br/> CEP:  15015-200",
     "adressSecundario": "A_Definir",
     "expediente": "Segunda a sexta-feira: <br/> 9h às 18h",
     "expedienteSecundario": "A_Definir",
@@ -17,7 +17,7 @@
     "ctaButtonTextResponsive": "Contato"
   },
   "hero": {
-    "miniTag": "ESCRITÓRIO DE ADVOCACIA EM SÃO PAULO",
+    "miniTag": "ESCRITÓRIO DE ADVOCACIA EM SÃO JOSÉ DO RIO PRETO - SP",
     "title": "Quem defende você, <span class=\"text-primary font-bold\">se não agir?</span>",
     "subtitle": "Problemas jurídicos não se resolvem sozinhos. O tempo pode jogar contra você.",
     "ctaButtonText": "Quero me proteger agora",
@@ -99,10 +99,10 @@
     },
     "miniTag": "QUEM É SGOTTI E VIEIRA",
     "title": "Minha trajetória",
-    "subtitle": "Com histórico de sucesso na construção de defesas jurídicas estratégicas",
+    "subtitle": "Com histórico de sucesso na construção de defesas jurídicas estratégicas.",
     "buttonModalLabelAbout": "Continuar lendo",
     "paragraph": "Formado por dois melhores amigos que se conheceram nos corredores do fórum de São José do Rio Preto, o escritório nasceu sem herança de parentes advogados, começando literalmente do zero. <br/><br/> Sgotti e Vieira é um projeto de vida que hoje atende desde grandes empresas até demandas de clientes com menor poder aquisitivo, atuando também com destaque nas áreas trabalhista e de consumidor.",
-    "modal": "Formado por dois melhores amigos que se conheceram nos corredores do fórum de São José do Rio Preto, o escritório nasceu sem herança de parentes advogados, começando literalmente do zero.  <br/><br/> Sgotti e Vieira é um projeto de vida que hoje atende desde grandes empresas até demandas de clientes com menor poder aquisitivo, atuando também com destaque nas áreas trabalhista e de consumidor. <br/><br/> Um escritório de advocacia dedicado a oferecer representação legal especializada em uma ampla variedade de áreas, incluindo direito empresarial, direito tributário, direito do consumidor e direito de família. <br/><br/> Nossa equipe é formada por advogados experientes e totalmente comprometidos em proteger os direitos e interesses dos nossos clientes, sempre com qualidade e dedicação.",
+    "modal": "Formado por dois melhores amigos que se conheceram nos corredores do fórum de São José do Rio Preto, o escritório nasceu sem herança de parentes advogados, começando literalmente do zero.  <br/><br/> Sgotti e Vieira é um projeto de vida que hoje atende desde grandes empresas até demandas de clientes com menor poder aquisitivo, atuando também com destaque nas áreas trabalhista e de consumidor. <br/><br/> Um escritório de advocacia dedicado a oferecer representação legal especializada em uma ampla variedade de áreas, incluindo direito empresarial, direito tributário, direito do consumidor, direito de família e direito criminal. <br/><br/> Nossa equipe é formada por advogados experientes e totalmente comprometidos em proteger os direitos e interesses dos nossos clientes, sempre com qualidade e dedicação.",
     "ctaButtonAriaLabel": " Quer saber mais sobre nós? Clique abaixo 👇",
     "ctaButtonText": "Entre em contato",
     "aboutSocial": {
