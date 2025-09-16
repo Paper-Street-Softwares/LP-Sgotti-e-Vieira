@@ -45,16 +45,25 @@ export default function FeaturesParagraphs({ modal, colorMode }) {
       <SectionWrapper>
         <div className="flex flex-col items-center w-full justify-evenly tablet1:flex-row">
           <div className="flex flex-wrap items-start justify-center w-full gap-[40px]">
-            {["card1", "card2", "card3", "card4", "card5", "card6", "card7", "card8"].map((cardKey) => (
+            {[
+              "card1",
+              "card2",
+              "card3",
+              "card4",
+              "card5",
+              "card6",
+              "card7",
+              "card8",
+            ].map((cardKey) => (
               <MotionDivDownToUp
                 key={cardKey}
-                className="flex flex-col items-center justify-center border-[2px] border-solid px-[10px] py-[20px] rounded-md bg-bgSectionLight tablet1:w-[46.5%] desktop1:w-[28%] desktop2:w-[20%]"
+                className="flex flex-col items-center justify-center py-4 px-4 border-[2px] border-solid rounded-md bg-bgSectionLight"
               >
                 <IconButtonFeatureCard
                   icon={content.texts.features[cardKey].icon}
                   title={t(`features.${cardKey}.title`)}
                   paragraph={t(`features.${cardKey}.subtitle`)}
-                  className="tablet1:mb-[12px] desktop1:mb-0 desktop2:mb-[18px]"
+                  className=""
                   colorMode={colorMode}
                 />
               </MotionDivDownToUp>
